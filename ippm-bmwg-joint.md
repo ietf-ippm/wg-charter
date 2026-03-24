@@ -8,9 +8,9 @@ The xxxx WG fosters commonality and comparability of metrics and measurements ac
 
 ## Work Items
 
-The WG is responsible for the development and maintenance of active, passive, and hybrid measurement protocols (e.g., TWAMP, STAMP, IOAM, Alternate Marking and Hybrid Two-Step (HTS)). The WG will also produce recommendations concerning the key performance characteristics of internetworking technologies, or benchmarks for network devices, systems, and services. In addition, the WG will specify related manageability aspects, such as YANG data models for configuration, operation, and Network Telemetry data export.
+The WG is responsible for the development and maintenance of active, passive, and hybrid measurement protocols (e.g., Two-Way Active Measurement Protocol (TWAMP), Simple Two-Way Active Measurement Protocol (STAMP), In Situ OAM (IOAM), Alternate Marking, and Hybrid Two-Step (HTS)). The WG will also produce terminology documents and recommendations concerning the key performance characteristics of internetworking technologies, or benchmarks for network devices, systems, and services. In addition, the WG will specify related manageability aspects, such as YANG data models for configuration, operation, and Network Telemetry data export.
 
-The work scope is limited to metrics and methodologies which are applicable to the IP and MPLS data plane and its upper transport-layer protocols (e.g., TCP, UDP, and QUIC). Layer 2 applications can be covered as well but requires explicit approval from the Responsible Area Director. This WG does not specify encapsulations required for measurements over non-IP and non-MPLS layers.
+The work scope is limited to metrics and methodologies which are applicable to the IP and MPLS data plane and its upper transport-layer protocols (e.g., TCP, UDP, and QUIC). Layer 2 applications can be covered as well but require explicit approval from the Responsible Area Director. This WG does not specify encapsulations required for measurements over non-IP and non-MPLS layers.
 
 The WG is responsible for the maintenance of RFCs published by the concluded BMWG and IPPM WGs and the maintenance of BCP 170 (Guidelines for Considering New Performance Metric Development).
 
