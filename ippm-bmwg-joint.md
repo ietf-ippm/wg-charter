@@ -12,7 +12,7 @@ The WG is responsible for the development and maintenance of active, passive, an
 
 The work scope is limited to metrics and methodologies which are applicable to the IP and MPLS data plane and its upper transport-layer protocols (e.g., TCP, UDP, and QUIC). Layer 2 applications can be covered as well but require explicit approval from the Responsible Area Director. This WG does not specify encapsulations required for measurements over non-IP and non-MPLS layers.
 
-The WG is responsible for the maintenance of RFCs published by the concluded BMWG and IPPM WGs and the maintenance of BCP 170 (Guidelines for Considering New Performance Metric Development).
+The WG is responsible for the maintenance of RFCs published by the concluded BMWG and IPPM WGs (including, updating those published as Proposed Standard to Internet Standard) and the maintenance of BCP 170 (Guidelines for Considering New Performance Metric Development).
 
 Metrics and protocols can be published as Standards Track or Experimental RFCs while methodologies can be published as Informational or BCP RFCs. Also, the WG documents BCPs for operations of the performance-related protocols and methodologies.
 
