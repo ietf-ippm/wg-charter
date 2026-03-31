@@ -8,7 +8,7 @@ The xxxx WG fosters commonality and comparability of metrics and measurements ac
 
 ## Work Items
 
-The WG is responsible for the development and maintenance of active, passive, and hybrid measurement protocols (e.g., Two-Way Active Measurement Protocol (TWAMP), Simple Two-Way Active Measurement Protocol (STAMP), In Situ OAM (IOAM), Alternate Marking, and Hybrid Two-Step (HTS)). The WG will also produce terminology documents and recommendations concerning the key performance characteristics of internetworking technologies, or benchmarks for network devices, systems, and services. In addition, the WG will specify related manageability aspects, such as YANG data models for configuration, operation, and Network Telemetry data export.
+The WG is responsible for the development and maintenance of active, passive, and hybrid measurement protocols (such as Two-Way Active Measurement Protocol (TWAMP), Simple Two-Way Active Measurement Protocol (STAMP), In Situ OAM (IOAM), Alternate Marking, and Hybrid Two-Step (HTS)). The WG will also produce terminology documents and recommendations concerning the key performance characteristics of internetworking technologies, or benchmarks for network devices, systems, and services. In addition, the WG will specify related manageability aspects, such as YANG data models for configuration, operation, and Network Telemetry data export.
 
 The work scope is limited to metrics and methodologies which are applicable to the IP and MPLS data plane and its upper layer protocols. Layer 2 applications can be covered as well but require explicit approval from the Responsible Area Director. This WG does not specify encapsulations required for measurements over non-IP and non-MPLS layers.
 
@@ -16,7 +16,7 @@ The WG is responsible for the maintenance of RFCs published by the concluded BMW
 
 The WG can publish RFCs in all Tracks.
 
-## Liaisons
+## Relationship With Existing WGs, Coordination, and Liaisons
 
 The WG is responsible for coordinating and dispatching performance measurement related work within the IETF. It specifically coordinates with other WGs such as MPLS, 6MAN, and SPRING where encapsulations are specified. The WG closely collaborates with the Performance Metrics Directorate per the guidance in BCP 170.
 
