@@ -12,13 +12,13 @@ The WG is responsible for the development and maintenance of active, passive, an
 
 The work scope is limited to metrics and methodologies which are applicable to the IP and MPLS data plane and its upper layer protocols. Layer 2 applications can be covered as well but require explicit approval from the Responsible Area Director. This WG does not specify encapsulations required for measurements over non-IP and non-MPLS layers.
 
-The WG is responsible for the maintenance of RFCs published by the concluded BMWG and IPPM WGs (including, updating those published as Proposed Standard to Internet Standard) and the maintenance of BCP 170 (Guidelines for Considering New Performance Metric Development).
+The WG is responsible for the maintenance of RFCs published by the concluded BMWG and IPPM WGs (including, updating those published as Proposed Standard to Internet Standard and Informational to BCP) and the maintenance of BCP 170 (Guidelines for Considering New Performance Metric Development).
 
 The WG can publish RFCs in all Tracks.
 
 ## Relationship With Existing WGs, Coordination, and Liaisons
 
-The WG is responsible for coordinating and dispatching performance measurement related work within the IETF. It specifically coordinates with other WGs such as MPLS, 6MAN, and SPRING where encapsulations are specified. The WG closely collaborates with the Performance Metrics Directorate per the guidance in BCP 170.
+The WG is responsible for coordinating and dispatching performance measurement related work within the IETF. It specifically coordinates with other WGs such as MPLS, 6MAN, and SPRING where data plane encapsulations are specified. The WG closely collaborates with the Performance Metrics Directorate per the guidance in BCP 170.
 
 The WG liaises with other Standards Development Organizations such as ITU-T, IEEE, 3GPP, and BBF and reaches out to other operator communities such as NANOG, RIPE, and APRICOT.
 
