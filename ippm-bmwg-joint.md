@@ -18,6 +18,8 @@ The WG can publish RFCs in all Tracks.
 
 ## Relationship With Existing WGs, Coordination, and Liaisons
 
+The WG will follow transport-related BCPs (mainly, BCP 133 on Specifying New Congestion Control Algorithms, BCP 145 on UDP Usage Guidelines, and BCP 208 on Network Transport Circuit Breakers) and will seek advice from the WIT area as needed.
+
 The WG is responsible for coordinating and dispatching performance measurement related work within the IETF. It specifically coordinates with other WGs such as MPLS, 6MAN, and SPRING where data plane encapsulations are specified. The WG closely collaborates with the Performance Metrics Directorate per the guidance in BCP 170.
 
 The WG liaises with other Standards Development Organizations such as ITU-T, IEEE, 3GPP, and BBF and reaches out to other operator communities such as NANOG, RIPE, and APRICOT.
