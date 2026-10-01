@@ -16,8 +16,6 @@ The work scope is limited to protocols, methodologies, and metrics that are appl
 
 The WG is the successor of BMWG and IPPM WGs. As such, the BPM WG is responsible for the maintenance of RFCs published by the concluded BMWG and IPPM WGs (including updating those published as Proposed Standard to Internet Standard and Informational to BCP) and the maintenance of BCP 170.
 
-In general, the WG requires an implementation for Standards Track documents. In some cases (e.g., security fixes or simple extensions) a proof of implementation might not be needed. Whenever such an exception applies, the exception justification must be included in the specification document or its shepherd's write-up.
-
 ## Relationship With Existing WGs and Coordination
 
 The WG will follow transport-related BCPs (mainly, BCP 133 on Specifying New Congestion Control Algorithms, BCP 145 on UDP Usage Guidelines, and BCP 208 on Network Transport Circuit Breakers) and will seek advice from the WIT area as needed.
