@@ -8,6 +8,8 @@ The methodologies cover data, control, and management planes and they apply to h
 
 The BPM WG fosters commonality and comparability of metrics and measurements across IETF protocols at different layers. The WG is also responsible for documenting guidance for methodologies and measurement protocols, including guidance to prevent that the methods do directly affect Internet security and privacy. In addition, the WG provides guidance on the interpretation of measurement results and the use of relevant operational context.
 
+Within the IETF process, metrics, methodologies, and measurement protocols developed by the BPM WG will be subject to the same rigorous scrutiny for usefulness, clarity, and accuracy as other IETF specifications.
+
 ## Work Items
 
 The WG is responsible for the development and maintenance of Standards Track or Experimental documents specifying active, passive, and hybrid performance measurement protocols, methodologies, and metrics. The WG will also produce Informational or Best Current Practices (BCP) terminology documents and recommendations on key performance characteristics of internetworking technologies, on frameworks for assessing these characteristics, and on benchmarks for network devices, systems, and services. In addition, the WG will publish Standards Track or Experimental documents specifying performance-related manageability properties such as YANG data models for configuration and operation, and IPFIX entities for Network Telemetry data export.
