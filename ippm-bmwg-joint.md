@@ -10,7 +10,6 @@ The metrics defined by the BPM WG are intended to provide unbiased, quantitative
 
 The BPM WG fosters commonality and comparability of metrics and measurements across IETF protocols at different layers. Among its objectives, BPM will produce a common body of metrics, procedures, and terminology that apply in both benchmarking and performance measurement contexts. The WG is also responsible for documenting guidance for methodologies and measurement protocols, including guidance to prevent that the methods do directly affect Internet security and privacy. In addition, the WG provides guidance on the interpretation of measurement results and the use of relevant operational context.
 
-
 ## Work Items
 
 The WG is responsible for the development and maintenance of Standards Track or Experimental documents specifying active, passive, and hybrid performance measurement protocols, the measurement methods they realize, and metrics. The WG will also produce Informational or Best Current Practices (BCP) terminology documents, benchmarking methodologies, and recommendations on key performance characteristics of internetworking technologies, on frameworks for assessing these characteristics, and on benchmarks for network devices, systems, and services. In addition, the WG will publish Standards Track or Experimental documents specifying performance-related manageability properties such as YANG data models for configuration and operation, and IPFIX entities for Network Telemetry data export.
@@ -23,7 +22,7 @@ The WG is the successor of BMWG and IPPM WGs. As such, the BPM WG is responsible
 
 The WG will follow transport-related BCPs (mainly, BCP 133 on Specifying New Congestion Control Algorithms, BCP 145 on UDP Usage Guidelines, and BCP 208 on Network Transport Circuit Breakers) and will seek advice from the WIT area as needed.
 
-The BPM WG maintains generic performance measurement protocols and their extensions, while collaborating with the other WGs that only work on performance-related procedures specific for their respective technology. Specifically, the WG collaborates with other WGs such as MPLS, SPRING, INTAREA, and 6MAN, where performance measurement related data plane encapsulations are specified or where the technologies under benchmark evaluation are defined. Also, the WG will seek feedback on topics related to other OPS WGs such as V6OPS or SRV6OPS. The WG will involve the security area for advice and guidance on relevant issues (e.g., integrity protection) and BESS for service specifics (e.g., L2VPN, L3VPN).
+The BPM WG maintains generic performance measurement protocols and their extensions, while collaborating with the other WGs that only work on performance-related procedures specific for their respective technology. Specifically, the WG collaborates with other WGs such as MPLS, SPRING, INTAREA, and 6MAN, where performance measurement related data plane encapsulations are specified or where the technologies under benchmark evaluation are defined. Also, the WG will seek feedback on topics related to other OPS WGs such as V6OPS or SRV6OPS. The WG will involve the security area for advice and guidance on relevant issues (e.g., integrity protection) and BESS for service specifics (e.g., L2VPN and L3VPN).
 
 The WG closely collaborates with the Performance Metrics Directorate per the guidance in BCP 170.
 
